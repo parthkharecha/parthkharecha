@@ -3,7 +3,7 @@
 - 👀 I’m interested in angular, react, php (Laravel) and node 
 - 🌱 I’m currently learning node (express and deno) 
 - 💞️ I’m looking to collaborate on node (express and deno) and react
-- 📫 How to reach me 27terminal@gmail.com
+- 📫 How to reach me parthgajjar27@gmail.com
 
 **Repository Views** ![Views](https://profile-counter.glitch.me/parthkharecha/count.svg)
 
